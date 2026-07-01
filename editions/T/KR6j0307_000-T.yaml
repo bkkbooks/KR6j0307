@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0307/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說聖觀自在菩薩不空王祕密心陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1099.xml
+    old_id: T20n1099
+hash: sha256:d500480eb9ee138bc5af317b403287ca9b39f3538ae956a3efb3eae010dbcde8

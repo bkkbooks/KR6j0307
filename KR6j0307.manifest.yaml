@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6j0307/v1
+canonical_location: https://kanripo.org/bkk/KR6j0307/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說聖觀自在菩薩不空王祕密心陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1099
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1099.xml
+    old_id: T20n1099
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0307_000.yaml, hash: 'sha256:d500480eb9ee138bc5af317b403287ca9b39f3538ae956a3efb3eae010dbcde8'}
+  - {seq: 1, filename: KR6j0307_001.yaml, hash: 'sha256:826ac7ae8dba8a0d7eb2df5321b4f33d0498b6fc587c55b134d3977d5e1a8084'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0307_001.markers.yaml, hash: 'sha256:93a48ae54ee3732e9fcb543f058be2b801c2bce7ec3a2e0714b8b86bae713152'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0307_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4805
+  label: '佛說聖觀自在菩薩不空王祕密
+
+    心陀羅尼經'
+  type: juan
+  level: 1
+hash: sha256:b087530f6980049f52d97e08742f46cc2f3030e87b9908872ab3758ef1d05e25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
