@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6j0307_000.yaml, hash: 'sha256:d500480eb9ee138bc5af317b403287ca9b39f3538ae956a3efb3eae010dbcde8'}
   - {seq: 1, filename: KR6j0307_001.yaml, hash: 'sha256:8e77af197aa50a9d12a2a1e95ef1ff3b5f088fbfe5014b91de9302b1f9285ebc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0307_000.markers.yaml, hash: 'sha256:f391631dbe8e6cb531bc0f767dbf1dd0f6d11c621b10c6d1e8df8e93f0871a17'}
+  - {seq: 0, role: markers, filename: assets/KR6j0307_000.markers.yaml, hash: 'sha256:fa2552ab979b2e9ffb1a028b3a86de664ad9422906828a56ad83824f488d478a'}
   - {seq: 1, role: markers, filename: assets/KR6j0307_001.markers.yaml, hash: 'sha256:d9aa666db7675de54c49e834365833ca2d9d1733b1a95b7817eb8c8d8b6d93ff'}
 table_of_contents:
 - ref:
@@ -48,7 +48,7 @@ table_of_contents:
     心陀羅尼經'
   type: juan
   level: 1
-hash: sha256:4707ac2036cf6c555c37019aa6643929bda87325bdbdcc63d0fe7bc2bf58822b
+hash: sha256:5b8bc660f76e5a4b12fc2e64b68ba1982db18e25143b92e19a6a9a4dca7bdf3c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
